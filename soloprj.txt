@@ -1,0 +1,12 @@
+-Need to
+Login and reg w/ validations
+User can create idea and its put in Db
+Ideas are layed out in a table for the user to read
+User can like an idea
+User can edit/delete his own idea
+The idea and its description will have validations as well
+Images, Does it really need JS?
+
+-Wants to
+I want to put comment box where other users can leaves their thoughts of the idea in the view page for an idea.
+I want to maybe add some links to videos
