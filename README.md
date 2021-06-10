@@ -1,0 +1,2 @@
+# soloprjCD
+solo project
